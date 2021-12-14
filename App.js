@@ -14,7 +14,7 @@ import {
 const App = () => {
   return (
     <View>
-      <Header />
+      {/* <Header /> */}
       <Middleware />
     </View>
   );
